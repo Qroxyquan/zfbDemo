@@ -13,3 +13,4 @@ classes
 /.settings/
 /src/zfbinfo.properties
 /WebRoot/
+/bin/zfbinfo.properties
