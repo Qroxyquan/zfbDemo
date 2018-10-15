@@ -7,4 +7,9 @@
 *.iml
 out
 gen
-!/bin/zfbinfo.properties
+.classpath
+.project
+classes
+/.settings/
+/src/zfbinfo.properties
+/WebRoot/
